@@ -6,3 +6,5 @@ To learn about github
 Normal user
 
 new test to understand
+
+through command line
